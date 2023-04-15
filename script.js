@@ -10,4 +10,4 @@ function dropFileEffect() {
   });
 }
 
-dropFile();
+dropFileEffect();
